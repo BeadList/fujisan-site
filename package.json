@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "commonmark": "^0.24.0",
     "fujisan": "0.0.3",
     "gulp": "^3.9.1",
     "jade": "^1.11.0"
