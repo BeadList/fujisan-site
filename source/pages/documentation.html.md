@@ -17,6 +17,6 @@ Source:
 
 
 [home]: /
-[chain-preprocessors]: /chain-preprocessors.html
-[pages]: /pages.html
-[public]: /public.html
+[chain-preprocessors]: ./chain-preprocessors.html
+[pages]: ./pages.html
+[public]: ./public.html

@@ -9,4 +9,4 @@ TODO:
 - collapsing with public files,
 - collapsing `docs/index.html` with `docs.html`
 
-[chain-preprocessors]: /chain-preprocessors.html
+[chain-preprocessors]: ./chain-preprocessors.html
