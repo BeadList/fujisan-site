@@ -17,6 +17,8 @@ Key Concepts:
 Source:
 - [Pages][pages]
 - [Public][public]
+- [Helpers][helpers]
+- [Partials][partials]
 
 
 [home]: /
