@@ -1,5 +1,5 @@
 Partials
-=====
+========
 
 Partials are small chunks of pages which can be used across pages to avoid
 duplication. You can use them in pages, layouts, other partials or even in

@@ -19,6 +19,7 @@ Source:
 - [Public][public]
 - [Helpers][helpers]
 - [Partials][partials]
+- [Layouts][layouts]
 
 
 [home]: /
@@ -26,3 +27,5 @@ Source:
 [chain-preprocessors]: ./chain-preprocessors.html
 [pages]: ./pages.html
 [public]: ./public.html
+[partials]: ./partials.html
+[layouts]: ./layouts.html
