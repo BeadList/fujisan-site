@@ -5,7 +5,7 @@ module.exports = (path, text, options) => {
   let root = '';
   let suffix = '';
   if(process.env.NODE_ENV === 'production') {
-    root = 'http://beadwall.github.io/fujisan';
+    root = 'http://beadwall.github.io/fujisan/';
   } else {
     if(path !== '/') {
       suffix = '.html';
