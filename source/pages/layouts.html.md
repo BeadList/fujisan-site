@@ -164,3 +164,7 @@ together by setting it to false. Its default value is 'default';
   layout: 'main'
 }
 ```
+
+[< Back to Documentation][documentation]
+
+[documentation]: ./documentation.html

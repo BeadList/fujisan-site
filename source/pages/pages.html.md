@@ -1,12 +1,16 @@
 Pages
 =====
 
-Pages directory is for your html files. You can use
-[preprocessors][chain-preprocessors] to generate resulting files.
+Pages are html files, which are going to be [processed][processing], and given a
+[layout][layouts]. You can use [partials][partials] and [helpers][helpers]
+inside your pages.
 
+Pages go into `source/pages` directory.
 
-TODO:
-- collapsing with public files,
-- collapsing `docs/index.html` with `docs.html`
+[< Back to Documentation][documentation]
 
-[chain-preprocessors]: ./chain-preprocessors.html
+[documentation]: ./documentation.html
+[processing]: ./processing.html
+[layouts]: ./layouts.html
+[partials]: ./partials.html
+[helpers]: ./helpers.html
